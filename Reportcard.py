@@ -1,3 +1,4 @@
+# An employee report card
 name = 'Alice'
 print(name, type(name))
 
@@ -10,6 +11,7 @@ print(age, type(age))
 score = 80.5
 print(isinstance(score, float))
 print(score, type(score))
+
 
 
 
